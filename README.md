@@ -1,6 +1,6 @@
 # 💫 About Me:
-I’m a multimedia student at the University of Pretoria focusing on game development and full-stack web developmen
-I’m currently working on a Farm DefenSe game called [ClucknLoad](https://github.com/DMR-Studios/Cluck-N-Load/tree/prod)
+I’m a BIS Multimedia student at the University of Pretoria Pationate about game development and full-stack web development
+I’m currently working on a Farm DefenSe game called [ClucknLoad](https://github.com/DMR-Studios/Cluck-N-Load/tree/prod) and some full stack web applications focusing on UI/UX
 
 
 ## 🌐 Socials:
