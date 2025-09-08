@@ -1,21 +1,21 @@
 ## Hi there 👋
 
 <hr>
-<!--   <details> -->
+  <details>
     <summary>GitHub Stats</summary>
-<!--     <p align = "center"> -->
+    <p align = "center">
       <img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruan-le-Roux)](https://github.com/anuraghazra/github-readme-stats)"/>
-<!--     </p> -->
-<!--   </details> -->
-<!--   <details> -->
+    </p>
+  </details>
+  <details>
     <summary>Language Stats</summary>
     <img src="https://wakatime.com/share/@cf431d06-74ce-468f-96af-22175b41dfb0/dd840f39-159b-4165-b0cb-8839d34420bb.svg"/>
-<!--     <figure><embed src="https://wakatime.com/share/@cf431d06-74ce-468f-96af-22175b41dfb0/dd840f39-159b-4165-b0cb-8839d34420bb.svg"></embed></figure> -->
+    <figure><embed src="https://wakatime.com/share/@cf431d06-74ce-468f-96af-22175b41dfb0/dd840f39-159b-4165-b0cb-8839d34420bb.svg"></embed></figure>
 
-<!--     <p align = "center">
+     <p align = "center">
       <img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/Ruan-le-Roux/github-readme-stats)"/>
-    </p> -->
-<!--   </details> -->
+    </p> 
+   </details> 
 <hr>
 
 <!--
