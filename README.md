@@ -4,7 +4,7 @@
 <!--   <details> -->
     <summary>GitHub Stats</summary>
 <!--     <p align = "center"> -->
-      <img src="https://github-readme-stats.vercel.app/apiRuan-le-Roux=anuraghazra"/>
+      <img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiRuan-le-Rouxanuraghazra)](https://github.com/anuraghazra/github-readme-stats)"/>
 <!--     </p> -->
 <!--   </details> -->
 <!--   <details> -->
