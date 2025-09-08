@@ -30,7 +30,7 @@ Portfolio:
 
 ### Technologies:
 [![Cloudflare](https://skillicons.dev/icons?i=cloudflare)](https://www.cloudflare.com/)
-[![Apache](https://skillicons.dev/icons?i=apache)](https://httpd.apache.org/)
+[![Apache](https://skillicons.dev/icons?i=server)](https://httpd.apache.org/)
 [![Nginx](https://skillicons.dev/icons?i=nginx)](https://www.nginx.com/)
 [![Adobe Audition](https://skillicons.dev/icons?i=audition)](https://www.adobe.com/products/audition.html)
 [![Adobe Illustrator](https://skillicons.dev/icons?i=illustrator)](https://www.adobe.com/products/illustrator.html)
