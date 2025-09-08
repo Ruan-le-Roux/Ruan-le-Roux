@@ -13,7 +13,7 @@ Portfolio:
 # 💻 Tech Stack:
 
 ### Backend:
-(https://skillicons.dev/icons?i=cpp)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/)
 [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)
 [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net/)
