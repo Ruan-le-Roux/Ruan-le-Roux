@@ -1,8 +1,7 @@
 # 💫 About Me
 I’m a BIS Multimedia student at the University of Pretoria, passionate about game development and full-stack web development.  
 Currently, I’m working on a farm defense game called [ClucknLoad](https://github.com/DMR-Studios/Cluck-N-Load/tree/prod) and a full-stack web application, placing a focus on UI/UX.
-
-Portfolio:  
+  
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://ruanleroux.dev/)
 
 
