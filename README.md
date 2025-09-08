@@ -3,9 +3,9 @@
 <hr>
 <!--   <details> -->
     <summary>GitHub Stats</summary>
-    <p align = "center">
+<!--     <p align = "center"> -->
       <img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/Ruan-le-Roux/github-readme-stats)"/>
-    </p>
+<!--     </p> -->
 <!--   </details> -->
 <!--   <details> -->
     <summary>Language Stats</summary>
