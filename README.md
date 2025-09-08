@@ -43,6 +43,25 @@ Portfolio:
 [![Unity](https://skillicons.dev/icons?i=unity)](https://unity.com/)
 
 
+### Backend:
+[![C#](https://skillicons.dev/icons?i=dotnet)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/)
+[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)
+[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net/)
+[![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+
+### Technologies:
+[![Cloudflare](https://skillicons.dev/icons?i=cloudflare)](https://www.cloudflare.com/)
+[![Apache](https://skillicons.dev/icons?i=server)](https://httpd.apache.org/)
+[![Nginx](https://skillicons.dev/icons?i=nginx)](https://www.nginx.com/)
+[![Raspberry Pi](https://skillicons.dev/icons?i=linux)](https://www.raspberrypi.com/)
+
+
+
 
 
 
