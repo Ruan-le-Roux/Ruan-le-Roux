@@ -32,7 +32,7 @@ I’m currently working on a Farm defence game called [ClucknLoad](https://githu
 ---
 [![](https://visitcount.itsvg.in/api?id=Ruan-le-Roux&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<summary>Language Stats</summary>
+# Language Stats
 <img src="https://wakatime.com/share/@cf431d06-74ce-468f-96af-22175b41dfb0/dd840f39-159b-4165-b0cb-8839d34420bb.svg"/>
 
 Here are some ideas to get you started:
