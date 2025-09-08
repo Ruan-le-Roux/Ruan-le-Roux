@@ -4,8 +4,8 @@
   <details>
     <summary>GitHub Stats</summary>
     <p align = "center">
-      [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruan-le-Roux)](https://github.com/anuraghazra/github-readme-stats)
-<!--       <img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruan-le-Roux)](https://github.com/anuraghazra/github-readme-stats)"/> -->
+<!--       [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruan-le-Roux)](https://github.com/anuraghazra/github-readme-stats) -->
+      <img src="https://github-readme-stats.vercel.app/api?username=Ruan-le-Roux"/>
     </p>
   </details>
   <details>
