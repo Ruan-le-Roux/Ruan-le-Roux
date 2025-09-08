@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on a Farm defence game called [ClucknLoad](https://github.com/DMR-Studios/Cluck-N-Load/tree/prod)
+I’m currently working on a Farm DefenSe game called [ClucknLoad](https://github.com/DMR-Studios/Cluck-N-Load/tree/prod)
 
 
 ## 🌐 Socials:
