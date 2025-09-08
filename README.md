@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on a Farm defence game called <a href = "https://github.com/DMR-Studios/Cluck-N-Load/tree/prod"> CluckNLoad</a>
+- 🔭 I’m currently working on a Farm defence game called [ClucknLoad](https://github.com/DMR-Studios/Cluck-N-Load/tree/prod)
 
 <hr>
   <details>
