@@ -4,12 +4,10 @@ Currently, I’m working on a farm defense game called [ClucknLoad](https://gith
 
 
 ## 🌐 Socials
-## 🌐 Skills / Tools
-<a href="#"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/adobeillustrator.svg" alt="Adobe Illustrator" width="40"/></a>
-<a href="#"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/adobephotoshop.svg" alt="Adobe Photoshop" width="40"/></a>
-<a href="#"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/blender.svg" alt="Blender" width="40"/></a>
-<a href="#"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/figma.svg" alt="Figma" width="40"/></a>
-<a href="#"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/unity.svg" alt="Unity" width="40"/></a>
+![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg)
+![Email](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg)
+![Portfolio](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/dev-dot-to.svg)
+
 
 
 
