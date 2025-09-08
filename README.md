@@ -9,6 +9,7 @@ Currently, I’m working on a farm defense game called [ClucknLoad](https://gith
 
 Portfolio:  
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://ruanleroux.dev/)
+[![Portfolio](https://skillicons.dev/icons?i=devto)](https://ruanleroux.dev/)
 
 
 # 💻 Tech Stack:
