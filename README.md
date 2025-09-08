@@ -8,7 +8,7 @@ Currently, I’m working on a farm defense game called [ClucknLoad](https://gith
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:puan35.leroux@gmail.com)  
 
 Portfolio:  
-[![Portfolio](https://skillicons.dev/icons?i=devto)](https://ruanleroux.dev/)
+  [![Portfolio](https://skillicons.dev/icons?i=website)](https://ruanleroux.dev/)
 
 # 💻 Tech Stack:
 
