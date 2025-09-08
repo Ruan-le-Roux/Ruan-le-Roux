@@ -4,6 +4,7 @@ Currently, I’m working on a farm defense game called [ClucknLoad](https://gith
 
 
 ## 🌐 Socials
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 ![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg)
 ![Email](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg)
 ![Portfolio](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/dev-dot-to.svg)
