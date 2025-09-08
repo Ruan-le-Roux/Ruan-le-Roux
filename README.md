@@ -5,9 +5,11 @@ Currently, I’m working on a farm defense game called [ClucknLoad](https://gith
 
 ## 🌐 Socials
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruan-le-roux-757792231/)  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:puan35.leroux@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ruanleroux.dev/)
+## 🌐 Socials
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg)](https://www.linkedin.com/in/ruan-le-roux-757792231/)  
+[![Email](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg)](mailto:puan35.leroux@gmail.com)  
+[![Portfolio](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/dev-dot-to.svg)](https://ruanleroux.dev/)
+
 
 
 
