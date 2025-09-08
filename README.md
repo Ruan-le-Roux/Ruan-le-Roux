@@ -12,6 +12,38 @@ Portfolio:
 [![Portfolio](https://skillicons.dev/icons?i=chrome)](https://ruanleroux.dev/)
 
 
+### Backend:
+[![C#](https://skillicons.dev/icons?i=csharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/)
+[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)
+[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net/)
+[![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+
+### Frontend:
+[![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
+[![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![HTML5](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![Vue.js](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
+
+### Technologies:
+[![Cloudflare](https://skillicons.dev/icons?i=cloudflare)](https://www.cloudflare.com/)
+[![Apache](https://skillicons.dev/icons?i=apache)](https://httpd.apache.org/)
+[![Nginx](https://skillicons.dev/icons?i=nginx)](https://www.nginx.com/)
+[![Adobe Creative Cloud](https://skillicons.dev/icons?i=adobe)](https://www.adobe.com/creativecloud.html)
+[![Adobe Audition](https://skillicons.dev/icons?i=audition)](https://www.adobe.com/products/audition.html)
+[![Adobe Illustrator](https://skillicons.dev/icons?i=illustrator)](https://www.adobe.com/products/illustrator.html)
+[![Adobe Photoshop](https://skillicons.dev/icons?i=photoshop)](https://www.adobe.com/products/photoshop.html)
+[![Blender](https://skillicons.dev/icons?i=blender)](https://www.blender.org/)
+[![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
+[![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi)](https://www.raspberrypi.com/)
+[![Unity](https://skillicons.dev/icons?i=unity)](https://unity.com/)
+
+
+
 
 
 
