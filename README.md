@@ -9,8 +9,8 @@ Currently, I’m working on a farm defense game called [ClucknLoad](https://gith
 
 Portfolio:  
 [![Portfolio](https://skillicons.dev/icons?i=devto)](https://ruanleroux.dev/)
-[![Portfolio](https://skillicons.dev/icons?i=chrome)](https://ruanleroux.dev/)
 
+# 💻 Tech Stack:
 
 ### Backend:
 [![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/)
@@ -30,8 +30,6 @@ Portfolio:
 
 ### Technologies:
 [![Cloudflare](https://skillicons.dev/icons?i=cloudflare)](https://www.cloudflare.com/)
-![Apache](https://img.shields.io/badge/Apache-%23D42029?style=for-the-badge&logo=apache&logoColor=white)
-
 [![Nginx](https://skillicons.dev/icons?i=nginx)](https://www.nginx.com/)
 [![Adobe Audition](https://skillicons.dev/icons?i=audition)](https://www.adobe.com/products/audition.html)
 [![Adobe Illustrator](https://skillicons.dev/icons?i=illustrator)](https://www.adobe.com/products/illustrator.html)
@@ -39,15 +37,6 @@ Portfolio:
 [![Blender](https://skillicons.dev/icons?i=blender)](https://www.blender.org/)
 [![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
 [![Unity](https://skillicons.dev/icons?i=unity)](https://unity.com/)
-
-
-
-
-
-
-
-
-# 💻 Tech Stack:
 ### Backend:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
