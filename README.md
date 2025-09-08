@@ -13,7 +13,8 @@ Portfolio:
 
 
 ### Backend:
-[![C#](https://skillicons.dev/icons?i=csharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![C#](https://skillicons.dev/icons?i=dotnet)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+
 [![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/)
 [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)
 [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
