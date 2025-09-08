@@ -5,7 +5,8 @@ Currently, I’m working on a farm defense game called [ClucknLoad](https://gith
 
 ## 🌐 Socials
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ruan-le-roux-757792231/)
-[![Email](https://skillicons.dev/icons?i=gmail)](mailto:puan35.leroux@gmail.com)  
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:puan35.leroux@gmail.com) 
+Portfolio:
 [![Portfolio](https://skillicons.dev/icons?i=devto)](https://ruanleroux.dev/)
 [![Portfolio](https://skillicons.dev/icons?i=chrome)](https://ruanleroux.dev/)
 
