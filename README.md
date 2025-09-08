@@ -32,7 +32,6 @@ Portfolio:
 [![Cloudflare](https://skillicons.dev/icons?i=cloudflare)](https://www.cloudflare.com/)
 [![Apache](https://skillicons.dev/icons?i=apache)](https://httpd.apache.org/)
 [![Nginx](https://skillicons.dev/icons?i=nginx)](https://www.nginx.com/)
-[![Adobe Creative Cloud](https://skillicons.dev/icons?i=adobe)](https://www.adobe.com/creativecloud.html)
 [![Adobe Audition](https://skillicons.dev/icons?i=audition)](https://www.adobe.com/products/audition.html)
 [![Adobe Illustrator](https://skillicons.dev/icons?i=illustrator)](https://www.adobe.com/products/illustrator.html)
 [![Adobe Photoshop](https://skillicons.dev/icons?i=photoshop)](https://www.adobe.com/products/photoshop.html)
