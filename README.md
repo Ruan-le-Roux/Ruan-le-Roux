@@ -3,9 +3,11 @@ I’m a BIS Multimedia student at the University of Pretoria, passionate about g
 Currently, I’m working on a farm defense game called [ClucknLoad](https://github.com/DMR-Studios/Cluck-N-Load/tree/prod) and a full-stack web application, placing a focus on UI/UX.
 
 
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruan-le-roux-757792231/)  
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:puan35.leroux@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ruanleroux.dev/)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruan-le-roux-757792231/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:puan35.leroux@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&logoColor=white)](https://ruanleroux.dev/)
 
 # 💻 Tech Stack:
 ### Backend:
