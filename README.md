@@ -58,5 +58,5 @@ Currently, I’m working on a farm defense game called [CluckNLoad](https://gith
 
 # Language Stats
 <!--<img src="https://wakatime.com/share/@cf431d06-74ce-468f-96af-22175b41dfb0/dd840f39-159b-4165-b0cb-8839d34420bb.svg"/>-->
-![Languages](https://wakatime.com/share/@cf431d06-74ce-468f-96af-22175b41dfb0/3455ec4e-f0aa-4883-823b-53b76a6243df.svg)
+![Languages](https://wakatime.com/share/@cf431d06-74ce-468f-96af-22175b41dfb0/64266514-daf8-4b3a-b555-2174cbf6cc59.svg)
 
