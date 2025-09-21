@@ -57,5 +57,6 @@ Currently, I’m working on a farm defense game called [CluckNLoad](https://gith
 [![](https://visitcount.itsvg.in/api?id=Ruan-le-Roux&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # Language Stats
-<img src="https://wakatime.com/share/@cf431d06-74ce-468f-96af-22175b41dfb0/dd840f39-159b-4165-b0cb-8839d34420bb.svg"/>
+<!--<img src="https://wakatime.com/share/@cf431d06-74ce-468f-96af-22175b41dfb0/dd840f39-159b-4165-b0cb-8839d34420bb.svg"/>-->
+![Languages](https://wakatime.com/share/@cf431d06-74ce-468f-96af-22175b41dfb0/3455ec4e-f0aa-4883-823b-53b76a6243df.svg)
 
